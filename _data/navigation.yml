@@ -4,10 +4,10 @@ main:
   #   url: /publications/
 
   - title: "Projects"
-    url: /project/
+    url: /projects/
     
-  - title: "CV"
-    url: /files/paper1.pdf
+  - title: "Resume"
+    url: /files/Andrew_Park_CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/
