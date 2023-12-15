@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Andrew Park"
+title                    : "Andrew Park"
 title_separator          : "-"
 name                     : &name "Andrew Park"
 description              : &description "personal description"
