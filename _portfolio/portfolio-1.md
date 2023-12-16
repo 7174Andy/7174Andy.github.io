@@ -4,4 +4,4 @@ excerpt: "A website where UCSD students can post lost-and-found posts. <br/><img
 collection: portfolio
 ---
 
-This is a website
+<a href="https://github.com/7174Andy/ucmybelongings" class="github_btn btn"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
