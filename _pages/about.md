@@ -20,4 +20,4 @@ Computer engineering can be integrated with numerous diverse fields. Therefore, 
 
 # Why Computer Engineering?
 
-The first time I encountered the concept of coding was when I was in middle school learning Scratch. This is when I fell in love with programming. Then, I started learning programming through AP Computer Science when I was in high school. Now, as a scollege student, I am still exploring the wide wonderland of programming with the passion of education and longlasting dream of becoming an ML engineer.
+The first time I encountered the concept of coding was when I was in middle school learning Scratch. This is when I fell in love with programming. Then, I started learning programming through AP Computer Science when I was in high school. Now, as a scollege student, I am still exploring the wide wonderland of programming with the passion of learning and the longlasting dream of becoming an ML engineer.
