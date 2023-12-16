@@ -16,7 +16,7 @@ I am very excited to explore through the applications of computer enginnering in
 
 # Experience
 
-One of the most important aspect of being a successful computer engineer is to have diverse experience at different fields.
+Computer engineering can be integrated with numerous diverse fields. Therefore, one of the most important aspect of being a successful computer engineer is to have diverse experience at different fields. I have worked as a full stack developer, tutor, software developer, and project leader. These priceless experiences not only strengthened my computer engineering background but also understood computer engineering can be applied to other fields, such as newly borned startups.
 
 # Why Computer Engineering?
 
