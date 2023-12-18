@@ -10,4 +10,6 @@ This program works in Terminal: The user should type the number of words in a si
 
 I constructed the automatic process program using **Python's RPA modules** to write and read Microsoft Word documents.
 
+This RPA program has decreased the time to create a single set of quizzes (three vocabulary quizzes and their solutions) by **90%**
+
 <a href="https://github.com/7174Andy/vocab_generator" class="github_btn btn"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
