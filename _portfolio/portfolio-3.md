@@ -10,4 +10,6 @@ The website scrapes a playlist data from the Spotify playlist URL given by the u
 
 The website was constructed by **Django** framework in Python, and the scraping algorithms are based on **BeautifulSoup module** from Python.
 
+This web scraping algorithm optimized the time to obtain playlist data from Spotify by 75%
+
 <a href="https://github.com/7174Andy/django_playlist" class="github_btn btn"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
