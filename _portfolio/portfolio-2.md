@@ -10,4 +10,4 @@ This program works in Terminal: The user should type the number of words in a si
 
 I constructed the automatic process program using **Python's RPA modules** to write and read Microsoft Word documents.
 
-<a href="https://github.com/7174Andy/vocab_generator/tree/main" class="github_btn btn"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
+<a href="https://github.com/7174Andy/vocab_generator" class="github_btn btn"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
