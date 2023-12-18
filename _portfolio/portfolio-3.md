@@ -4,7 +4,7 @@ excerpt: "Web scraping program that transfers songs in a playlist from one platf
 collection: portfolio
 ---
 
-The project was initialized during the time when I was in a Korean web development club called Likelion US at UC San Diego. The reason behind this project is simply to make life eaiser and less time-consuming: Just one button clicked to perform a specific action. This is one of the prominant applications of computer engineering.
+The project was initialized during the time when I was in a Korean web development club called Likelion US at UC San Diego. The purpose of this project is simply to make life eaiser and less time-consuming: Just one button clicked to perform a specific action. This is one of the prominant applications of computer engineering.
 
 The website scrapes a playlist data from the Spotify playlist URL given by the user and prints out all the information (e.g. singer, title, etc.).
 
