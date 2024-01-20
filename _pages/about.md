@@ -16,7 +16,7 @@ I am very excited to explore through the applications of computer enginnering in
 
 # Experience
 
-Computer engineering can be utilized in numerous diverse fields, such as bioengineering, physics, and others. Therefore, one of the most important aspect of being a successful computer engineer is to have diverse experience at different fields. I have worked as a **backend and frontend developer**, **tutor**, **software developer**, and **project leader**. These priceless experiences not only strengthened my computer engineering background but also understood how computer engineering can be applied to other fields, such as education and governmental documents.
+Computer engineering can be utilized in numerous diverse fields, such as bioengineering, physics, and others. Therefore, one of the most important aspect of being a successful computer engineer is to have diverse experience at different fields. I have worked as a **full-stack developer**, **tutor**, **software developer**, and **project leader**. These priceless experiences not only strengthened my computer engineering background but also understood how computer engineering can be applied to other fields, such as education and governmental documents.
 
 # Why Computer Engineering?
 
