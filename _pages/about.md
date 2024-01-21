@@ -12,7 +12,7 @@ Hi, I am Andrew Park. I am currently a sophomore studying _Computer Engineering_
 
 I am currently a frontend web developer at [Citmit](https://citmit.info/) where machine learning technology is implemented to facilitate the process of obtaining permits for constructions.
 
-I am very excited to explore through the applications of computer enginnering in different fields. Specifically, I want dive into artificial intelligence and software engineering, and I am currently seeking a research internship related to these fields.
+I am very excited to explore through the applications of computer enginnering in different fields. Specifically, I want dive into artificial intelligence and software engineering, and I am currently seeking an internship related to these fields that I am interested in.
 
 # Experience
 
